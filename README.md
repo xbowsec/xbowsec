@@ -1,1 +1,1 @@
-Bringing AI to offensive security by autonomously finding and exploiting web vulnerabilities.
+Bounty hunting is a very complicated profession.
