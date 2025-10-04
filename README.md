@@ -1,1 +1,1 @@
-Bounty hunting is a very complicated profession.
+Bounty hunting is a complicated profession.
